@@ -9,3 +9,6 @@ This repository contains a simple JavaScript script that leverages the [OpenAI M
 - **Accurate Classification**: Classifies input text into categories like hate speech, violence, self-harm, and more.
 - **Customizable**: Easily extend the functionality to handle various moderation workflows.
 
+
+
+The API has 5K RPD, andn 250 RPM  
