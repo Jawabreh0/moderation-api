@@ -11,4 +11,4 @@ This repository contains a simple JavaScript script that leverages the [OpenAI M
 
 
 
-The API has 5K RPD, andn 250 RPM  
+The API has 5K RPD, and 250 RPM  
